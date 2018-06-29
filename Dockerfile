@@ -1,5 +1,4 @@
 FROM alpine:latest
-MAINTAINER Tanigroup <dev@tanihub.com>
 
 WORKDIR /var/www
 
