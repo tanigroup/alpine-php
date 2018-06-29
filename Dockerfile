@@ -28,7 +28,8 @@ RUN apk --update add \
     php7-pdo \
     php7-pdo_mysql \
     php7-fileinfo \
-    php7-session
+    php7-session \
+    php7-ctype
 
 RUN apk --update add \
     git \
